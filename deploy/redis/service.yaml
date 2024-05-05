@@ -14,5 +14,3 @@ spec:
   selector:
     app: redis
   type: ClusterIP
-status:
-  loadBalancer: {}
